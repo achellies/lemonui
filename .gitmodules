@@ -13,3 +13,6 @@
 [submodule "sources/lemon.dtrace"]
 	path = sources/lemon.dtrace
 	url = git@github.com:lemon-org/lemon.dtrace.git
+[submodule "sources/lemon.io"]
+	path = sources/lemon.io
+	url = git@github.com:lemon-org/lemon.io.git
