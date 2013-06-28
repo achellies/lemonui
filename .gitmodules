@@ -1,0 +1,15 @@
+[submodule "cmake"]
+	path = cmake
+	url = git@github.com:lemon-org/lemon-cmake.git
+[submodule "sources/lemon.sys"]
+	path = sources/lemon.sys
+	url = git@github.com:lemon-org/lemon.sys.git
+[submodule "sources/lemon.xtree"]
+	path = sources/lemon.xtree
+	url = git@github.com:lemon-org/lemon.xtree.git
+[submodule "sources/lemon.lua"]
+	path = sources/lemon.lua
+	url = git@github.com:lemon-org/lemon.lua.git
+[submodule "sources/lemon.dtrace"]
+	path = sources/lemon.dtrace
+	url = git@github.com:lemon-org/lemon.dtrace.git
