@@ -16,3 +16,9 @@
 [submodule "sources/lemon.io"]
 	path = sources/lemon.io
 	url = git@github.com:lemon-org/lemon.io.git
+[submodule "sources/lemon.concurrent"]
+	path = sources/lemon.concurrent
+	url = git@github.com:lemon-org/lemon.concurrent.git
+[submodule "sources/lemon.coroutine"]
+	path = sources/lemon.coroutine
+	url = git@github.com:lemon-org/lemon.coroutine.git
